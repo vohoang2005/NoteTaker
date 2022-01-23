@@ -1,12 +1,12 @@
 [
     {
-      "title": "Creating Note Taker",
-      "text": "My First Note Taker Text",
+      "title": "Feed Koi Fish",
+      "text": "Remember to feed Koi fish 3 times a day",
       "id": 1
     }, 
     {
       "title": "Taking out the Trash every Monday",
-      "text": "My Second Note Taker Text",
+      "text": "Take Trash out every Monday",
       "id": 2
     }
   ]
