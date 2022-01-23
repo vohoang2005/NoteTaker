@@ -24,3 +24,27 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ```
+
+## We are creating Note Taker and deploying it with Heroku!
+## Tool and Application Requirements:
+* VS Code
+* HTML
+* CSS
+* Bootstrap
+* Javascript
+* FS
+* Express
+* NPM
+* Heroku
+
+## How to run:
+```
+Create/install Heroku, VS Code and setup express.js
+Clone the Repo
+Open App in Heroku, Click Get Started, and You can Add/Delete Tasks.
+```
+
+### Created by: Chuong Vo
+
+![heroku note app](https://user-images.githubusercontent.com/37889335/150702300-31705a30-90d6-4d56-8a70-0388c32a4199.PNG)
+
