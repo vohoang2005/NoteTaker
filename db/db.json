@@ -3,5 +3,10 @@
       "title": "Creating Note Taker",
       "text": "My First Note Taker Text",
       "id": 1
+    }, 
+    {
+      "title": "Taking out the Trash every Monday",
+      "text": "My Second Note Taker Text",
+      "id": 2
     }
   ]
